@@ -1,12 +1,19 @@
-categories: ["cs.CV", "cs.LG", "cs.AI"]
+categories: ["cs.AR", "cs.DC", "cs.AI",  "cs.RO"]
 keywords:
-  - "open vocabulary"
-  - "open-vocabulary"
-  - "open vocabulary segmentation"
-  - "open-vocabulary segmentation"
-  - "vision language model"
-  - "training-free"
-  - "training free"
+  - "embodied AI"
+  - "Embodied AI"
+  - "VLA"
+  - "visual-language-action"
+  - "VLN"
+  - "visual-language-navigation"
+  - "robotic foundation model"
+  - "branch predictor"
+  - "real-time CPU"
+  - "computer architecture"
+  - "embodied AI system"
+  - "hardware accelerator"
+  - "hardware-software co-design"
+  - "edge AI"
 
 # exclude_keywords: # 选择排除的关键词
 #   - "Large Language Model"
@@ -18,7 +25,7 @@ sort_by: "lastUpdatedDate"  # 还可以是submittedDate 建议改成lastUpdatedD
 sort_order: "descending"
 
 # zh / en / both
-lang: "both"
+lang: "zh"
 
 # —— 摘要设置 ——
 # mode: none / heuristic / llm
