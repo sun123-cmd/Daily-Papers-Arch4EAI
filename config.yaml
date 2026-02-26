@@ -1,4 +1,4 @@
-categories: ["cs.AR", "cs.DC", "cs.AI",  "cs.RO"]
+categories: ["cs.AR", "cs.LG", "cs.AI", "cs.RO", "cs.SY", "cs.ET"]
 keywords:
   - "embodied AI"
   - "Embodied AI"
@@ -13,6 +13,10 @@ keywords:
   - "embodied AI system"
   - "hardware accelerator"
   - "hardware-software co-design"
+  - "SLAM hardware"
+  - "robotic manipulation"
+  - "trajectory planning"
+  - "resource-constrained"
   - "edge AI"
 
 # exclude_keywords: # 选择排除的关键词
